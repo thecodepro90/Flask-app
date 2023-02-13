@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "jinja-html": "html"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.files.associations": {
+    "jinja-html": "html"
+  },
+  "html.format.wrapAttributes": "force-aligned"
+}
